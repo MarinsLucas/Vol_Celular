@@ -1,0 +1,24 @@
+Nae = 155 #Concentração de códio extracelular
+Ke = 5 #Concentração de potássio extracelular
+Imax = 1 #Taxa da bomba em repouso
+gama = 6.41025641*10**(5) #Razão área/volume da membrana celular
+KNa = 7.7 #Saturação do sódio
+KK = 2 #Saturação do potássio
+nw = 1.7*10**(-7) #Fluidez da membrana
+pe = -266.64 #pressão extracelular
+T = 310 #Temperatura
+S = 1 #Rigidez da membrana por comprimento
+Cm = 1*10**(-2) #Capacitancia da célula
+
+
+#Esses parâmetros podem ou não ser calculados:
+gNa = 0.2505459082892031  
+gK = 1.404092733028937  
+Xwt = 17.39130434        
+
+#Condições iniciais
+Nai.append(10.0)
+Ki.append(130.0)
+V.append(-0.07)
+pi.append(pe)
+ai.append(0.869565217)

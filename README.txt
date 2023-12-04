@@ -1,0 +1,1 @@
+No jupyter notebook tem o código utilizado para obtenção de resultados, e no arquivo .pdf existem algumas conclusões e análises sobre os resultados obtidos. Nas pastas, alguns gráficos gerados para estudo.
